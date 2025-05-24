@@ -1,0 +1,7 @@
+DVD players. When not playing DVDs, they
+would display a diagonally traveling DVD logo
+that bounced off the edges of the screen. This program simulates this colorful DVD logo by making it
+change direction each time it hits an edge. We’ll also
+keep track of how many times a logo hits a corner of
+the screen. This creates an interesting visual animation to look at, especially for the magical moment
+when a logo lines up perfectly with a corner
